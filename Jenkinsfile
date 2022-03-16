@@ -16,7 +16,7 @@ pipeline
         
       {
         
-        git 'https://github.com/intelliqittrainings/maven.git'
+        git 'https://github.com/MoonHarita/Maven.git'
            
       }
    
